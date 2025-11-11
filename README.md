@@ -12,6 +12,7 @@ Exercice 2:
 ![image alt](https://github.com/laouysalma/Tp1JavaAv/blob/main/Ex2_2.png?raw=true)
 
 *demonstration DB exercice2*
-![image alt](https://github.com/laouysalma/Tp1JavaAv/blob/main/![image alt](https://github.com/laouysalma/Tp1JavaAv/blob/main/Ex2_2.png?raw=true)
-.png?raw=true)
-
+**table employe apres execution**
+![image alt](https://github.com/laouysalma/Tp1JavaAv/blob/main/tb_employee.png?raw=true)
+**table machine apres execution**
+![image alt](https://github.com/laouysalma/Tp1JavaAv/blob/main/tb_machine.png?raw=true)
